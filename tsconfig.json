@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+	  "target": "esnext",	// vilken version av ecmascript som används, "es2017"                     använder 2017 ecmascript version
+	  "strictNullChecks": true,	// variabler kan bara ha null eller undefined om dem assignas som null eller undefined
+	  "module": "commonjs",	// detta projekt kmr använda "commonjs"-syntax för att importera och exportera modules
+	  "watch": true,
+	  "lib": ["dom", "es2017"]
+	  },
+  }

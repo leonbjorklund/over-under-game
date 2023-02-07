@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="styling.css">
+</head>
+<body>
+
+  <div id="start-scene">
+
+    <form onsubmit="chooseCategory()">
+      <label>Choose a category:</label>
+      <select id="category">
+        <option value="population">Population</option>
+        <option value="life-expectancy">Life Expectancy</option>
+        <option value="emissions">Co2 emissions per capita</option>
+      </select>
+      <input type="submit">
+    </form>
+
+
+  </div>
+
+  <div id="game-scene">
+  
+  <div id="left">
+
+    <div id="left-country"></div>
+    <div id="left-value"></div>
+
+  </div>
+
+  <div id="right">
+
+    <div id="right-country"></div>
+    <div>
+      <button id="more" style="padding: 15px" onclick="compareAnswers(this)">more</button>
+      <button id="less" style="padding: 15px" onclick="compareAnswers(this)">less</button>
+    </div>
+    <div id="result"></div>
+    <div id="streak"></div>
+
+  </div>
+
+</div>
+
+<script src="index.js"></script>
+</body>
+</html>

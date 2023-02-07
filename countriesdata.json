@@ -1,0 +1,1292 @@
+[
+  {
+    "country": "Afghanistan",
+    "population": 37172386,
+    "expectancy": 45.9,
+    "co2PerCapita2020": 0.31
+  },
+  {
+    "country": "Albania",
+    "population": 2866376,
+    "expectancy": 71.6,
+    "co2PerCapita2020": 1.73
+  },
+  {
+    "country": "Algeria",
+    "population": 42228429,
+    "expectancy": 69.7,
+    "co2PerCapita2020": 3.77
+  },
+  {
+    "country": "American Samoa",
+    "population": 55465,
+    "expectancy": 75.1
+  },
+  {
+    "country": "Andorra",
+    "population": 77006,
+    "expectancy": 83.5,
+    "co2PerCapita2020": 4.62
+  },
+  {
+    "country": "Angola",
+    "population": 30809762,
+    "expectancy": 38.3,
+    "co2PerCapita2020": 0.69
+  },
+  {
+    "country": "Anguilla",
+    "population": 15094,
+    "expectancy": 76.1,
+    "co2PerCapita2020": 1.56
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "population": 96286,
+    "expectancy": 70.5,
+    "co2PerCapita2020": 4.35
+  },
+  {
+    "country": "Argentina",
+    "population": 44494502,
+    "expectancy": 75.1,
+    "co2PerCapita2020": 3.88
+  },
+  {
+    "country": "Armenia",
+    "population": 2951776,
+    "expectancy": 66.4,
+    "co2PerCapita2020": 1.98
+  },
+  {
+    "country": "Aruba",
+    "population": 105845,
+    "expectancy": 78.4,
+    "co2PerCapita2020": 6.94
+  },
+  {
+    "country": "Australia",
+    "population": 24982688,
+    "expectancy": 79.8,
+    "co2PerCapita2020": 15.22
+  },
+  {
+    "country": "Austria",
+    "population": 8840521,
+    "expectancy": 77.7,
+    "co2PerCapita2020": 7.25
+  },
+  {
+    "country": "Azerbaijan",
+    "population": 9939800,
+    "expectancy": 62.9,
+    "co2PerCapita2020": 3.36
+  },
+  {
+    "country": "Bahamas",
+    "population": 385640,
+    "expectancy": 71.1,
+    "co2PerCapita2020": 4.64
+  },
+  {
+    "country": "Bahrain",
+    "population": 1569439,
+    "expectancy": 73,
+    "co2PerCapita2020": 21.6
+  },
+  {
+    "country": "Bangladesh",
+    "population": 161356039,
+    "expectancy": 60.2,
+    "co2PerCapita2020": 0.64
+  },
+  {
+    "country": "Barbados",
+    "population": 286641,
+    "expectancy": 73,
+    "co2PerCapita2020": 3.95
+  },
+  {
+    "country": "Belarus",
+    "population": 9483499,
+    "expectancy": 68,
+    "co2PerCapita2020": 6.26
+  },
+  {
+    "country": "Belgium",
+    "population": 11433256,
+    "expectancy": 77.8
+  },
+  {
+    "country": "Belize",
+    "population": 383071,
+    "expectancy": 70.9,
+    "co2PerCapita2020": 1.01
+  },
+  {
+    "country": "Benin",
+    "population": 11485048,
+    "expectancy": 50.2,
+    "co2PerCapita2020": 0.61
+  },
+  {
+    "country": "Bermuda",
+    "population": 63973,
+    "expectancy": 76.9,
+    "co2PerCapita2020": 8.18
+  },
+  {
+    "country": "Bhutan",
+    "population": 754394,
+    "expectancy": 52.4,
+    "co2PerCapita2020": 1.75
+  },
+  {
+    "country": "Bolivia",
+    "population": 11353142,
+    "expectancy": 63.7,
+    "co2PerCapita2020": 1.79
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "population": 3323929,
+    "expectancy": 71.5,
+    "co2PerCapita2020": 6.7
+  },
+  {
+    "country": "Botswana",
+    "population": 2254126,
+    "expectancy": 39.3,
+    "co2PerCapita2020": 2.92
+  },
+  {
+    "country": "Brazil",
+    "population": 209469333,
+    "expectancy": 62.9,
+    "co2PerCapita2020": 2.11
+  },
+  {
+    "country": "Brunei",
+    "population": 428962,
+    "expectancy": 73.6,
+    "co2PerCapita2020": 17.95
+  },
+  {
+    "country": "Bulgaria",
+    "population": 7025037,
+    "expectancy": 70.9,
+    "co2PerCapita2020": 5.48
+  },
+  {
+    "country": "Burkina Faso",
+    "population": 19751535,
+    "expectancy": 46.7,
+    "co2PerCapita2020": 0.16
+  },
+  {
+    "country": "Burundi",
+    "population": 11175378,
+    "expectancy": 46.2,
+    "co2PerCapita2020": 0.02
+  },
+  {
+    "country": "Cabo Verde",
+    "population": 555987
+  },
+  {
+    "country": "Cambodia",
+    "population": 16249798,
+    "expectancy": 56.5,
+    "co2PerCapita2020": 0.95
+  },
+  {
+    "country": "Cameroon",
+    "population": 25216237,
+    "expectancy": 54.8,
+    "co2PerCapita2020": 0.36
+  },
+  {
+    "country": "Canada",
+    "population": 37057765,
+    "expectancy": 79.4,
+    "co2PerCapita2020": 14.43
+  },
+  {
+    "country": "Cape Verde",
+    "population": 543767,
+    "expectancy": 68.9,
+    "co2PerCapita2020": 1.42
+  },
+  {
+    "country": "Cayman Islands",
+    "population": 64174,
+    "expectancy": 78.9,
+    "co2PerCapita2020": 6.61
+  },
+  {
+    "country": "Central African Republic",
+    "population": 4666377,
+    "expectancy": 44,
+    "co2PerCapita2020": 0.07
+  },
+  {
+    "country": "Chad",
+    "population": 15477751,
+    "expectancy": 50.5,
+    "co2PerCapita2020": 0.05
+  },
+  {
+    "country": "Chile",
+    "population": 18729160,
+    "expectancy": 75.7,
+    "co2PerCapita2020": 4.58
+  },
+  {
+    "country": "China",
+    "population": 1392730000,
+    "expectancy": 71.4,
+    "co2PerCapita2020": 8.2
+  },
+  {
+    "country": "Colombia",
+    "population": 49648685,
+    "expectancy": 70.3,
+    "co2PerCapita2020": 1.8
+  },
+  {
+    "country": "Comoros",
+    "population": 832322,
+    "expectancy": 60,
+    "co2PerCapita2020": 0.29
+  },
+  {
+    "country": "Congo",
+    "population": 5244363,
+    "expectancy": 47.4
+  },
+  {
+    "country": "Cook Islands",
+    "population": 17379,
+    "expectancy": 71.1,
+    "co2PerCapita2020": 3.16
+  },
+  {
+    "country": "Costa Rica",
+    "population": 4999441,
+    "expectancy": 75.8,
+    "co2PerCapita2020": 1.55
+  },
+  {
+    "country": "Croatia",
+    "population": 4087843,
+    "expectancy": 73.7,
+    "co2PerCapita2020": 4.3
+  },
+  {
+    "country": "Cuba",
+    "population": 11338138,
+    "expectancy": 76.2,
+    "co2PerCapita2020": 2
+  },
+  {
+    "country": "Cyprus",
+    "population": 1189265,
+    "expectancy": 76.7,
+    "co2PerCapita2020": 5.19
+  },
+  {
+    "country": "Czech Republic",
+    "population": 10629928,
+    "expectancy": 74.5,
+    "co2PerCapita2020": 8.66
+  },
+  {
+    "country": "Denmark",
+    "population": 5793636,
+    "expectancy": 76.5,
+    "co2PerCapita2020": 4.43
+  },
+  {
+    "country": "Djibouti",
+    "population": 958920,
+    "expectancy": 50.8,
+    "co2PerCapita2020": 0.85
+  },
+  {
+    "country": "Dominica",
+    "population": 71625,
+    "expectancy": 73.4,
+    "co2PerCapita2020": 2.03
+  },
+  {
+    "country": "Dominican Republic",
+    "population": 10627165,
+    "expectancy": 73.2,
+    "co2PerCapita2020": 2.62
+  },
+  {
+    "country": "East Timor",
+    "population": 1267972,
+    "expectancy": 46
+  },
+  {
+    "country": "Ecuador",
+    "population": 17084357,
+    "expectancy": 71.1,
+    "co2PerCapita2020": 1.92
+  },
+  {
+    "country": "Egypt",
+    "population": 98423595,
+    "expectancy": 63.3,
+    "co2PerCapita2020": 2.62
+  },
+  {
+    "country": "El Salvador",
+    "population": 6420744,
+    "expectancy": 69.7,
+    "co2PerCapita2020": 1.05
+  },
+  {
+    "country": "Equatorial Guinea",
+    "population": 1308974,
+    "expectancy": 53.6,
+    "co2PerCapita2020": 3.04
+  },
+  {
+    "country": "Eritrea",
+    "population": 6213972,
+    "expectancy": 55.8,
+    "co2PerCapita2020": 0.13
+  },
+  {
+    "country": "Estonia",
+    "population": 1321977,
+    "expectancy": 69.5,
+    "co2PerCapita2020": 11.05
+  },
+  {
+    "country": "Ethiopia",
+    "population": 109224559,
+    "expectancy": 45.2,
+    "co2PerCapita2020": 0.15
+  },
+  {
+    "country": "Faroe Islands",
+    "population": 48497,
+    "expectancy": 78.4,
+    "co2PerCapita2020": 0.04
+  },
+  {
+    "country": "Fiji Islands",
+    "population": 883483,
+    "expectancy": 67.9
+  },
+  {
+    "country": "Finland",
+    "population": 5515525,
+    "expectancy": 77.4,
+    "co2PerCapita2020": 7.29
+  },
+  {
+    "country": "France",
+    "population": 66977107,
+    "expectancy": 78.8,
+    "co2PerCapita2020": 4.26
+  },
+  {
+    "country": "French Guiana",
+    "population": 290691,
+    "expectancy": 76.1,
+    "co2PerCapita2020": 1.5
+  },
+  {
+    "country": "French Polynesia",
+    "population": 277679,
+    "expectancy": 74.8,
+    "co2PerCapita2020": 3.23
+  },
+  {
+    "country": "Gabon",
+    "population": 2119275,
+    "expectancy": 50.1,
+    "co2PerCapita2020": 2.76
+  },
+  {
+    "country": "Gambia",
+    "population": 2280102,
+    "expectancy": 53.2,
+    "co2PerCapita2020": 0.23
+  },
+  {
+    "country": "Georgia",
+    "population": 3726549,
+    "expectancy": 64.5,
+    "co2PerCapita2020": 2.68
+  },
+  {
+    "country": "Germany",
+    "population": 82905782,
+    "expectancy": 77.4,
+    "co2PerCapita2020": 7.72
+  },
+  {
+    "country": "Ghana",
+    "population": 29767108,
+    "expectancy": 57.4,
+    "co2PerCapita2020": 0.54
+  },
+  {
+    "country": "Gibraltar",
+    "population": 33718,
+    "expectancy": 79,
+    "co2PerCapita2020": 20.55
+  },
+  {
+    "country": "Greece",
+    "population": 10731726,
+    "expectancy": 78.4,
+    "co2PerCapita2020": 5.06
+  },
+  {
+    "country": "Greenland",
+    "population": 56025,
+    "expectancy": 68.1,
+    "co2PerCapita2020": 8.34
+  },
+  {
+    "country": "Grenada",
+    "population": 111454,
+    "expectancy": 64.5,
+    "co2PerCapita2020": 1.69
+  },
+  {
+    "country": "Guadeloupe",
+    "population": 395700,
+    "expectancy": 77,
+    "co2PerCapita2020": 3.54
+  },
+  {
+    "country": "Guam",
+    "population": 165768,
+    "expectancy": 77.8
+  },
+  {
+    "country": "Guatemala",
+    "population": 17247807,
+    "expectancy": 66.2,
+    "co2PerCapita2020": 1.1
+  },
+  {
+    "country": "Guinea",
+    "population": 12414318,
+    "expectancy": 45.6,
+    "co2PerCapita2020": 0.2
+  },
+  {
+    "country": "Guinea-Bissau",
+    "population": 1874309,
+    "expectancy": 49,
+    "co2PerCapita2020": 0.14
+  },
+  {
+    "country": "Guyana",
+    "population": 779004,
+    "expectancy": 64,
+    "co2PerCapita2020": 1.92
+  },
+  {
+    "country": "Haiti",
+    "population": 11123176,
+    "expectancy": 49.2,
+    "co2PerCapita2020": 0.26
+  },
+  {
+    "country": "Honduras",
+    "population": 9587522,
+    "expectancy": 69.9,
+    "co2PerCapita2020": 1.09
+  },
+  {
+    "country": "Hong Kong",
+    "population": 7451000,
+    "expectancy": 79.5,
+    "co2PerCapita2020": 4.3
+  },
+  {
+    "country": "Hungary",
+    "population": 9775564,
+    "expectancy": 71.4,
+    "co2PerCapita2020": 5.14
+  },
+  {
+    "country": "Iceland",
+    "population": 352721,
+    "expectancy": 79.4,
+    "co2PerCapita2020": 9.23
+  },
+  {
+    "country": "India",
+    "population": 1352617328,
+    "expectancy": 62.5,
+    "co2PerCapita2020": 1.74
+  },
+  {
+    "country": "Indonesia",
+    "population": 267663435,
+    "expectancy": 70.1,
+    "co2PerCapita2020": 2.09
+  },
+  {
+    "country": "Iran",
+    "population": 81800269,
+    "expectancy": 69.7,
+    "co2PerCapita2020": 8.26
+  },
+  {
+    "country": "Iraq",
+    "population": 38433600,
+    "expectancy": 66.5,
+    "co2PerCapita2020": 4.61
+  },
+  {
+    "country": "Ireland",
+    "population": 4867309,
+    "expectancy": 76.8,
+    "co2PerCapita2020": 6.68
+  },
+  {
+    "country": "Israel",
+    "population": 8882800,
+    "expectancy": 78.6,
+    "co2PerCapita2020": 7.16
+  },
+  {
+    "country": "Italy",
+    "population": 60421760,
+    "expectancy": 79,
+    "co2PerCapita2020": 5.03
+  },
+  {
+    "country": "Ivory Coast",
+    "population": 25069229,
+    "expectancy": 45.2,
+    "co2PerCapita2020": 0.46
+  },
+  {
+    "country": "Jamaica",
+    "population": 2934855,
+    "expectancy": 75.2,
+    "co2PerCapita2020": 2.71
+  },
+  {
+    "country": "Japan",
+    "population": 126529100,
+    "expectancy": 80.7,
+    "co2PerCapita2020": 8.39
+  },
+  {
+    "country": "Jordan",
+    "population": 9956011,
+    "expectancy": 77.4,
+    "co2PerCapita2020": 2.59
+  },
+  {
+    "country": "Kazakhstan",
+    "population": 18272430,
+    "expectancy": 63.2,
+    "co2PerCapita2020": 14.22
+  },
+  {
+    "country": "Kenya",
+    "population": 51393010,
+    "expectancy": 48,
+    "co2PerCapita2020": 0.31
+  },
+  {
+    "country": "Kiribati",
+    "population": 115847,
+    "expectancy": 59.8,
+    "co2PerCapita2020": 0.52
+  },
+  {
+    "country": "Kuwait",
+    "population": 4137309,
+    "expectancy": 76.1,
+    "co2PerCapita2020": 20.91
+  },
+  {
+    "country": "Kyrgyzstan",
+    "population": 6322800,
+    "expectancy": 63.4,
+    "co2PerCapita2020": 1.82
+  },
+  {
+    "country": "Laos",
+    "population": 7061507,
+    "expectancy": 53.1,
+    "co2PerCapita2020": 5.84
+  },
+  {
+    "country": "Latvia",
+    "population": 1927174,
+    "expectancy": 68.4,
+    "co2PerCapita2020": 3.93
+  },
+  {
+    "country": "Lebanon",
+    "population": 6848925,
+    "expectancy": 71.3,
+    "co2PerCapita2020": 4.45
+  },
+  {
+    "country": "Lesotho",
+    "population": 2108132,
+    "expectancy": 50.8,
+    "co2PerCapita2020": 0.28
+  },
+  {
+    "country": "Liberia",
+    "population": 4818977,
+    "expectancy": 51,
+    "co2PerCapita2020": 0.25
+  },
+  {
+    "country": "Libyan Arab Jamahiriya",
+    "population": 6678567,
+    "expectancy": 75.5
+  },
+  {
+    "country": "Liechtenstein",
+    "population": 37910,
+    "expectancy": 78.8,
+    "co2PerCapita2020": 4.07
+  },
+  {
+    "country": "Lithuania",
+    "population": 2801543,
+    "expectancy": 69.1,
+    "co2PerCapita2020": 4.75
+  },
+  {
+    "country": "Luxembourg",
+    "population": 607950,
+    "expectancy": 77.1,
+    "co2PerCapita2020": 13.24
+  },
+  {
+    "country": "Macao",
+    "population": 631636,
+    "expectancy": 81.6
+  },
+  {
+    "country": "North Macedonia",
+    "population": 2084367,
+    "expectancy": 73.8,
+    "co2PerCapita2020": 3.69
+  },
+  {
+    "country": "Madagascar",
+    "population": 26262368,
+    "expectancy": 55,
+    "co2PerCapita2020": 0.15
+  },
+  {
+    "country": "Malawi",
+    "population": 18143315,
+    "expectancy": 37.6,
+    "co2PerCapita2020": 0.07
+  },
+  {
+    "country": "Malaysia",
+    "population": 31528585,
+    "expectancy": 70.8,
+    "co2PerCapita2020": 7.98
+  },
+  {
+    "country": "Maldives",
+    "population": 515696,
+    "expectancy": 62.2,
+    "co2PerCapita2020": 3.63
+  },
+  {
+    "country": "Mali",
+    "population": 19077690,
+    "expectancy": 46.7,
+    "co2PerCapita2020": 0.17
+  },
+  {
+    "country": "Malta",
+    "population": 484630,
+    "expectancy": 77.9,
+    "co2PerCapita2020": 3.58
+  },
+  {
+    "country": "Marshall Islands",
+    "population": 58413,
+    "expectancy": 65.5
+  },
+  {
+    "country": "Martinique",
+    "population": 376480,
+    "expectancy": 78.3,
+    "co2PerCapita2020": 4.6
+  },
+  {
+    "country": "Mauritania",
+    "population": 4403319,
+    "expectancy": 50.8,
+    "co2PerCapita2020": 0.56
+  },
+  {
+    "country": "Mauritius",
+    "population": 1265303,
+    "expectancy": 71,
+    "co2PerCapita2020": 2.85
+  },
+  {
+    "country": "Mayotte",
+    "population": 270372,
+    "expectancy": 59.5
+  },
+  {
+    "country": "Mexico",
+    "population": 126190788,
+    "expectancy": 71.5,
+    "co2PerCapita2020": 3.05
+  },
+  {
+    "country": "Moldova",
+    "population": 2706049,
+    "expectancy": 64.5,
+    "co2PerCapita2020": 2.11
+  },
+  {
+    "country": "Monaco",
+    "population": 38682,
+    "expectancy": 78.8,
+    "co2PerCapita2020": 4.26
+  },
+  {
+    "country": "Mongolia",
+    "population": 3170208,
+    "expectancy": 67.3,
+    "co2PerCapita2020": 11.91
+  },
+  {
+    "country": "Montenegro",
+    "population": 631219,
+    "co2PerCapita2020": 8.31
+  },
+  {
+    "country": "Montserrat",
+    "population": 5900,
+    "expectancy": 78
+  },
+  {
+    "country": "Morocco",
+    "population": 36029138,
+    "expectancy": 69.1,
+    "co2PerCapita2020": 1.83
+  },
+  {
+    "country": "Mozambique",
+    "population": 29495962,
+    "expectancy": 37.5,
+    "co2PerCapita2020": 0.31
+  },
+  {
+    "country": "Myanmar",
+    "population": 53708395,
+    "expectancy": 54.9,
+    "co2PerCapita2020": 0.69
+  },
+  {
+    "country": "Namibia",
+    "population": 2448255,
+    "expectancy": 42.5,
+    "co2PerCapita2020": 1.49
+  },
+  {
+    "country": "Nauru",
+    "population": 12704,
+    "expectancy": 60.8
+  },
+  {
+    "country": "Nepal",
+    "population": 28087871,
+    "expectancy": 57.8,
+    "co2PerCapita2020": 0.59
+  },
+  {
+    "country": "Netherlands",
+    "population": 17231624,
+    "expectancy": 78.3,
+    "co2PerCapita2020": 8.42
+  },
+  {
+    "country": "Netherlands Antilles",
+    "population": 227049,
+    "expectancy": 74.7
+  },
+  {
+    "country": "New Caledonia",
+    "population": 284060,
+    "expectancy": 72.8,
+    "co2PerCapita2020": 25.52
+  },
+  {
+    "country": "New Zealand",
+    "population": 4841000,
+    "expectancy": 77.8,
+    "co2PerCapita2020": 6.83
+  },
+  {
+    "country": "Nicaragua",
+    "population": 6465513,
+    "expectancy": 68.7,
+    "co2PerCapita2020": 0.79
+  },
+  {
+    "country": "Niger",
+    "population": 22442948,
+    "expectancy": 41.3,
+    "co2PerCapita2020": 0.09
+  },
+  {
+    "country": "Nigeria",
+    "population": 195874740,
+    "expectancy": 51.6,
+    "co2PerCapita2020": 0.62
+  },
+  {
+    "country": "North Korea",
+    "population": 25549819,
+    "expectancy": 70.7,
+    "co2PerCapita2020": 1.25
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "population": 56882,
+    "expectancy": 75.5
+  },
+  {
+    "country": "Norway",
+    "population": 5311916,
+    "expectancy": 78.7,
+    "co2PerCapita2020": 7.74
+  },
+  {
+    "country": "Oman",
+    "population": 4829483,
+    "expectancy": 71.8,
+    "co2PerCapita2020": 16.9
+  },
+  {
+    "country": "Pakistan",
+    "population": 212215030,
+    "expectancy": 61.1,
+    "co2PerCapita2020": 1.04
+  },
+  {
+    "country": "Palau",
+    "population": 17907,
+    "expectancy": 68.6,
+    "co2PerCapita2020": 55.29
+  },
+  {
+    "country": "Palestine",
+    "population": 4569087,
+    "expectancy": 71.4
+  },
+  {
+    "country": "Panama",
+    "population": 4176873,
+    "expectancy": 75.5,
+    "co2PerCapita2020": 2.17
+  },
+  {
+    "country": "Papua New Guinea",
+    "population": 8606316,
+    "expectancy": 63.1,
+    "co2PerCapita2020": 0.83
+  },
+  {
+    "country": "Paraguay",
+    "population": 6956071,
+    "expectancy": 73.7,
+    "co2PerCapita2020": 1.11
+  },
+  {
+    "country": "Peru",
+    "population": 31989256,
+    "expectancy": 70,
+    "co2PerCapita2020": 1.34
+  },
+  {
+    "country": "Philippines",
+    "population": 106651922,
+    "expectancy": 67.5,
+    "co2PerCapita2020": 1.27
+  },
+  {
+    "country": "Poland",
+    "population": 37974750,
+    "expectancy": 73.2,
+    "co2PerCapita2020": 7.71
+  },
+  {
+    "country": "Portugal",
+    "population": 10283822,
+    "expectancy": 75.8,
+    "co2PerCapita2020": 3.96
+  },
+  {
+    "country": "Puerto Rico",
+    "population": 3195153,
+    "expectancy": 75.6,
+    "co2PerCapita2020": 1.09
+  },
+  {
+    "country": "Qatar",
+    "population": 2781677,
+    "expectancy": 72.4,
+    "co2PerCapita2020": 35.64
+  },
+  {
+    "country": "Reunion",
+    "population": 859959,
+    "expectancy": 72.7,
+    "co2PerCapita2020": 2.69
+  },
+  {
+    "country": "Romania",
+    "population": 19466145,
+    "expectancy": 69.9,
+    "co2PerCapita2020": 3.91
+  },
+  {
+    "country": "Russian Federation",
+    "population": 144478050,
+    "expectancy": 67.2
+  },
+  {
+    "country": "Rwanda",
+    "population": 12301939,
+    "expectancy": 39.3,
+    "co2PerCapita2020": 0.08
+  },
+  {
+    "country": "Saint Helena",
+    "population": 6600,
+    "expectancy": 76.8
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "population": 52441,
+    "expectancy": 70.7,
+    "co2PerCapita2020": 2.44
+  },
+  {
+    "country": "Saint Lucia",
+    "population": 181889,
+    "expectancy": 72.3,
+    "co2PerCapita2020": 1.6
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "population": 5888,
+    "expectancy": 77.6,
+    "co2PerCapita2020": 7.3
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "population": 110210,
+    "expectancy": 72.3,
+    "co2PerCapita2020": 1.05
+  },
+  {
+    "country": "Samoa",
+    "population": 196130,
+    "expectancy": 69.2,
+    "co2PerCapita2020": 1.78
+  },
+  {
+    "country": "San Marino",
+    "population": 33785,
+    "expectancy": 81.1,
+    "co2PerCapita2020": 5.03
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "population": 211028,
+    "expectancy": 65.3
+  },
+  {
+    "country": "Saudi Arabia",
+    "population": 33699947,
+    "expectancy": 67.8,
+    "co2PerCapita2020": 16.96
+  },
+  {
+    "country": "Senegal",
+    "population": 15854360,
+    "expectancy": 62.2,
+    "co2PerCapita2020": 0.58
+  },
+  {
+    "country": "Serbia",
+    "population": 6963764,
+    "expectancy": 76.05,
+    "co2PerCapita2020": 8.31
+  },
+  {
+    "country": "Seychelles",
+    "population": 96762,
+    "expectancy": 70.4,
+    "co2PerCapita2020": 12.25
+  },
+  {
+    "country": "Sierra Leone",
+    "population": 7650154,
+    "expectancy": 45.3,
+    "co2PerCapita2020": 0.13
+  },
+  {
+    "country": "Singapore",
+    "population": 5638676,
+    "expectancy": 80.1,
+    "co2PerCapita2020": 9.45
+  },
+  {
+    "country": "Slovakia",
+    "population": 5446771,
+    "expectancy": 73.7,
+    "co2PerCapita2020": 5.85
+  },
+  {
+    "country": "Slovenia",
+    "population": 2073894,
+    "expectancy": 74.9,
+    "co2PerCapita2020": 6.62
+  },
+  {
+    "country": "Solomon Islands",
+    "population": 652858,
+    "expectancy": 71.3,
+    "co2PerCapita2020": 0.47
+  },
+  {
+    "country": "Somalia",
+    "population": 15008154,
+    "expectancy": 46.2,
+    "co2PerCapita2020": 0.05
+  },
+  {
+    "country": "South Africa",
+    "population": 57779622,
+    "expectancy": 51.1,
+    "co2PerCapita2020": 7.41
+  },
+  {
+    "country": "South Korea",
+    "population": 51606633,
+    "expectancy": 74.4,
+    "co2PerCapita2020": 12.07
+  },
+  {
+    "country": "Spain",
+    "population": 46796540,
+    "expectancy": 78.8,
+    "co2PerCapita2020": 4.62
+  },
+  {
+    "country": "Sri Lanka",
+    "population": 21670000,
+    "expectancy": 75.5,
+    "co2PerCapita2020": 1.13
+  },
+  {
+    "country": "Sudan",
+    "population": 41801533,
+    "expectancy": 56.6,
+    "co2PerCapita2020": 0.35
+  },
+  {
+    "country": "Suriname",
+    "population": 575991,
+    "expectancy": 71.4,
+    "co2PerCapita2020": 2.84
+  },
+  {
+    "country": "Swaziland",
+    "population": 1136191,
+    "expectancy": 40.4
+  },
+  {
+    "country": "Sweden",
+    "population": 10175214,
+    "expectancy": 79.6,
+    "co2PerCapita2020": 4.18
+  },
+  {
+    "country": "Switzerland",
+    "population": 8513227,
+    "expectancy": 79.6,
+    "co2PerCapita2020": 4.07
+  },
+  {
+    "country": "Syria",
+    "population": 16906283,
+    "expectancy": 68.5,
+    "co2PerCapita2020": 1.35
+  },
+  {
+    "country": "Tajikistan",
+    "population": 9100837,
+    "expectancy": 64.1
+  },
+  {
+    "country": "Tanzania",
+    "population": 56318348,
+    "expectancy": 52.3,
+    "co2PerCapita2020": 0.18
+  },
+  {
+    "country": "Thailand",
+    "population": 69428524,
+    "expectancy": 68.6,
+    "co2PerCapita2020": 3.68
+  },
+  {
+    "country": "Togo",
+    "population": 7889094,
+    "expectancy": 54.7,
+    "co2PerCapita2020": 0.34
+  },
+  {
+    "country": "Tonga",
+    "population": 103197,
+    "expectancy": 67.9,
+    "co2PerCapita2020": 1.11
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "population": 1389858,
+    "expectancy": 68,
+    "co2PerCapita2020": 21.97
+  },
+  {
+    "country": "Tunisia",
+    "population": 11565204,
+    "expectancy": 73.7,
+    "co2PerCapita2020": 2.4
+  },
+  {
+    "country": "Turkey",
+    "population": 82319724,
+    "expectancy": 71,
+    "co2PerCapita2020": 4.83
+  },
+  {
+    "country": "Turkmenistan",
+    "population": 5850908,
+    "expectancy": 60.9,
+    "co2PerCapita2020": 13.37
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "population": 37665,
+    "expectancy": 73.3,
+    "co2PerCapita2020": 5.16
+  },
+  {
+    "country": "Tuvalu",
+    "population": 11508,
+    "expectancy": 66.3
+  },
+  {
+    "country": "Uganda",
+    "population": 42723139,
+    "expectancy": 42.9,
+    "co2PerCapita2020": 0.11
+  },
+  {
+    "country": "Ukraine",
+    "population": 44622516,
+    "expectancy": 66,
+    "co2PerCapita2020": 4.34
+  },
+  {
+    "country": "United Arab Emirates",
+    "population": 9630959,
+    "expectancy": 74.1,
+    "co2PerCapita2020": 20.7
+  },
+  {
+    "country": "United Kingdom",
+    "population": 66460344,
+    "expectancy": 77.7,
+    "co2PerCapita2020": 4.66
+  },
+  {
+    "country": "United States",
+    "population": 326687501,
+    "expectancy": 77.1,
+    "co2PerCapita2020": 13.68
+  },
+  {
+    "country": "Uruguay",
+    "population": 3449299,
+    "expectancy": 75.2,
+    "co2PerCapita2020": 1.68
+  },
+  {
+    "country": "Uzbekistan",
+    "population": 32955400,
+    "expectancy": 63.7,
+    "co2PerCapita2020": 2.72
+  },
+  {
+    "country": "Vanuatu",
+    "population": 292680,
+    "expectancy": 60.6,
+    "co2PerCapita2020": 0.59
+  },
+  {
+    "country": "Venezuela",
+    "population": 28870195,
+    "expectancy": 73.1,
+    "co2PerCapita2020": 2.68
+  },
+  {
+    "country": "Vietnam",
+    "population": 95540395,
+    "expectancy": 69.3,
+    "co2PerCapita2020": 3.27
+  },
+  {
+    "country": "Western Sahara",
+    "population": 652271,
+    "expectancy": 49.8,
+    "co2PerCapita2020": 0.32
+  },
+  {
+    "country": "Yemen",
+    "population": 28498687,
+    "expectancy": 59.8,
+    "co2PerCapita2020": 0.34
+  },
+  {
+    "country": "Zambia",
+    "population": 17351822,
+    "expectancy": 37.2,
+    "co2PerCapita2020": 0.4
+  },
+  {
+    "country": "Zimbabwe",
+    "population": 14439018,
+    "expectancy": 37.8,
+    "co2PerCapita2020": 0.65
+  }
+]
