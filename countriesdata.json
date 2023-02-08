@@ -792,30 +792,30 @@
   {
     "country": "Mozambique",
     "population": 29495962,
-    "expectancy": 37.5,
+    "expectancy": 61.2,
     "co2PerCapita2020": 0.31
   },
   {
     "country": "Myanmar",
     "population": 53708395,
-    "expectancy": 54.9,
+    "expectancy": 66.8,
     "co2PerCapita2020": 0.69
   },
   {
     "country": "Namibia",
     "population": 2448255,
-    "expectancy": 42.5,
+    "expectancy": 62.8,
     "co2PerCapita2020": 1.49
   },
   {
     "country": "Nauru",
     "population": 12704,
-    "expectancy": 60.8
+    "expectancy": 68.8
   },
   {
     "country": "Nepal",
     "population": 28087871,
-    "expectancy": 57.8,
+    "expectancy": 69.2,
     "co2PerCapita2020": 0.59
   },
   {
@@ -850,7 +850,7 @@
   {
     "country": "Niger",
     "population": 22442948,
-    "expectancy": 41.3,
+    "expectancy": 61.4,
     "co2PerCapita2020": 0.09
   },
   {
